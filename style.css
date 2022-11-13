@@ -1,0 +1,33 @@
+
+.Heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px,5px,5px black;
+    background-color: black;
+    color: pink;
+}
+.note{
+    font-size: 23px;
+    color: white;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: black;
+    color: pink;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+}
+canvas{
+    border-radius: 14px;
+    box-shadow: 5px 5px 5px grey;
+}
+video{
+    border-radius: 14px;
+    box-shadow: 5px 5px 5px grey;
+    width: 550;
+    margin-left: 50px;
+    margin-top: 70px;
+}
